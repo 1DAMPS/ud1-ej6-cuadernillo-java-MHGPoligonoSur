@@ -13,17 +13,17 @@
 ---
 
 ### 2. Crear un archivo por ejercicio
-- Si es código Java → `ej01.java`, `ej02.java`, …  
-- Si es una respuesta escrita → `ej05.txt`, `ej17.txt`.  
+- Si es código Java → `Ej01.java`, `Ej02.java`, …  
+- Si es una respuesta escrita → `Ej05.txt`, `Ej17.txt`.  
 
 Ejemplo de estructura esperada:  
 ```
-ej01.java
-ej02.java
-ej03.java
-ej05.txt
+Ej01.java
+Ej02.java
+Ej03.java
+Ej05.txt
 ...
-ej20.java
+Ej20.java
 ```
 
 ---
