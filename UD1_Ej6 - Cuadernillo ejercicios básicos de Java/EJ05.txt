@@ -1,6 +1,0 @@
-De los siguientes nombres de variables, indica cuáles son válidos y cuáles no: 2edad, _curso, while, Nombre, precioTotal.
-2edad no - no puede comenzar en número.
-_curso si.
-while no - al ser una funciona esta reservada esa palabra.
-Nombre si.
-precioTotal si.

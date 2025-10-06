@@ -1,1 +1,0 @@
-Es importante usar el tipo de dato correcto porque si es muy pequeño puede desbordarse al superar su límite, y si es demasiado grande desperdicias memoria
